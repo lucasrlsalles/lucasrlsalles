@@ -1,9 +1,5 @@
 ### Olá! Seja bem vindo, me chamo Lucas 😉👍
 
-- 💼 - Trabalho com front-end
-- 📚 - Estudando TypeScript e ReactJS
-- 😄 - Pronome: ele/dele
-
 <div>
   <a href="https://www.instagram.com/lucasrobins0n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank"></a>  
   <a href="https://t.me/lucassalles" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=black" target="_blank"></a>
