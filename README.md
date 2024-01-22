@@ -3,6 +3,7 @@
 Backend Developer
 
 📚 Atualmente estou reforçando meus estudos em <strong>Python</strong>
+
 ✉️ Você pode me contactar <a href="mailto:lucasrlouzasalles@gmail.com">aqui</a>
 
 <div style="display: inline_block"></br>
