@@ -1,8 +1,8 @@
 ### Olá! seja bem vindo, eu sou Lucas 😉👍
 ##
-Frontend Developer
+Backend Developer
 
-📚 Atualmente estou estudando <strong>Javascript</strong> e <strong>Typescript</strong><br>
+📚 Atualmente estou reforçando meus estudos em <strong>Python</strong>
 ✉️ Você pode me contactar <a href="mailto:lucasrlouzasalles@gmail.com">aqui</a>
 
 <div style="display: inline_block"></br>
