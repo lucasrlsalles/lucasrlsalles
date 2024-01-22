@@ -2,7 +2,7 @@
 ##
 Backend Developer
 
-📚 Atualmente estou estudando o caminho de <strong>DevOps<strong/> e reforçando meus estudos em <strong>Python</strong>
+📚 Atualmente estou estudando o caminho de <strong>DevOps</strong> e reforçando meus estudos em <strong>Python</strong>
 
 ✉️ Você pode me contactar <a href="mailto:lucasrlouzasalles@gmail.com">aqui</a>
 
